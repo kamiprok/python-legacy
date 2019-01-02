@@ -1,0 +1,1 @@
+@python.exe c:\Users\kprokopiuk\git\python-udemy\mapit.py %*
