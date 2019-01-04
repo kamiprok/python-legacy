@@ -1,1 +1,1 @@
-@python.exe c:\Users\kprokopiuk\git\python-udemy\mapit.py %*
+@py c:\Users\kprokopiuk\git\python-random\mapit.py %*
