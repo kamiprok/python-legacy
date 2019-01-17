@@ -1,4 +1,4 @@
 import webbrowser
 
-webbrowser.open('https://google.com')
-
+strona = input('Wpisz adres strony: ')
+webbrowser.get('chrome').open(strona)
