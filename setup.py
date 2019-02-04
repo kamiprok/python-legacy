@@ -1,6 +1,0 @@
-from distutils.core import setup
-import py2exe
-
-setup(console=['web.py'])
-
-# pyinstaller.exe --onefile web.py
