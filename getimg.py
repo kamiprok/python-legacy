@@ -22,9 +22,8 @@ os.remove(file)
 
 print(text)
 
-urls = re.findall('' +text)
+urls = re.findall('' + text)
 
 print(urls[0])
 
 webbrowser.open(urls[0])
-

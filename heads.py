@@ -12,6 +12,7 @@ def heads():
         print('Your pick: Tails')
     else:
         print("You didn't pick any!")
+        exit()
 
     pick = random.choice(['Tails', 'Heads'])
     cpu_input = str(pick)
