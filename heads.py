@@ -1,5 +1,6 @@
 import random
 
+
 def heads():
     user_input = input('Heads or Tails? \n')
 
