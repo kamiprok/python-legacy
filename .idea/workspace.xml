@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="902fb623-0cc6-41d3-8a93-ad853116ab21" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/miles.py" beforeDir="false" afterPath="$PROJECT_DIR$/miles.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmorpg.py" beforeDir="false" afterPath="$PROJECT_DIR$/mmorpg.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,12 +20,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1096" />
   </component>
   <component name="ProjectId" id="1OrWHTpKF5zXq77uFbmuEJY663J" />
   <component name="ProjectLevelVcsManager">
