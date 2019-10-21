@@ -4,12 +4,8 @@
     <list default="true" id="902fb623-0cc6-41d3-8a93-ad853116ab21" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../python-redditbot/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../python-redditbot/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python-random.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python-random.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/primes.py" beforeDir="false" afterPath="$PROJECT_DIR$/primes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run2.py" beforeDir="false" afterPath="$PROJECT_DIR$/run2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../python-redditbot/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../python-redditbot/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../python-redditbot/.idea/python-redditbot.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../python-redditbot/.idea/python-redditbot.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../python-redditbot/downvoter.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python-redditbot/downvoter.py" afterDir="false" />
@@ -52,7 +48,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.primes">
+  <component name="RunManager" selected="Python.run2">
     <configuration name="miles" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-random" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -157,8 +153,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.primes" />
         <item itemvalue="Python.run2" />
+        <item itemvalue="Python.primes" />
         <item itemvalue="Python.miles" />
         <item itemvalue="Python.recurser" />
         <item itemvalue="Python.primes2" />
