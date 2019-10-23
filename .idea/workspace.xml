@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="902fb623-0cc6-41d3-8a93-ad853116ab21" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../python-redditbot/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../python-redditbot/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/argsandkwargs.py" beforeDir="false" afterPath="$PROJECT_DIR$/argsandkwargs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python-redditbot/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../python-redditbot/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python-redditbot/.idea/python-redditbot.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../python-redditbot/.idea/python-redditbot.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python-redditbot/downvoter.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python-redditbot/downvoter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapit.py" beforeDir="false" afterPath="$PROJECT_DIR$/mapit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/palindrome.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../python-wallix/.idea/python-wallix.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../python-wallix/.idea/python-wallix.iml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,6 +32,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kprokopiuk\PycharmProjects\python-random" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -49,8 +49,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.multi2">
-    <configuration name="argsandkwargs" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.web3">
+    <configuration name="mapit" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-random" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -62,7 +62,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/argsandkwargs.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mapit.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -71,7 +71,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="miles" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="perceptron" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-random" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -83,7 +83,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/miles.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/perceptron.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -92,7 +92,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="multi2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="recurser" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-random" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -104,7 +104,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/multi2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/recurser.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,7 +113,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="primes" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-random" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -125,16 +125,16 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/primes.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\kprokopiuk\PycharmProjects\python-random\palindrome.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="run2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="web3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-random" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -146,7 +146,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/web3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.multi2" />
-        <item itemvalue="Python.argsandkwargs" />
-        <item itemvalue="Python.run2" />
-        <item itemvalue="Python.primes" />
-        <item itemvalue="Python.miles" />
+        <item itemvalue="Python.web3" />
+        <item itemvalue="Python.run" />
+        <item itemvalue="Python.recurser" />
+        <item itemvalue="Python.perceptron" />
+        <item itemvalue="Python.mapit" />
       </list>
     </recent_temporary>
   </component>

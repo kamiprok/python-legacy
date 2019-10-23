@@ -1,6 +1,6 @@
 import webbrowser, sys, pyperclip
 
-sys.argv
+sys.argv    # sys.argv lets you intercept arguments from cmd
 
 if len(sys.argv) > 1:
     address = ' '.join(sys.argv[1:])
