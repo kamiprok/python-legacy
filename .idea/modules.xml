@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/python-random.iml" filepath="$PROJECT_DIR$/.idea/python-random.iml" />
       <module fileurl="file://$PROJECT_DIR$/../python-redditbot/.idea/python-redditbot.iml" filepath="$PROJECT_DIR$/../python-redditbot/.idea/python-redditbot.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../python-wallix/.idea/python-wallix.iml" filepath="$PROJECT_DIR$/../python-wallix/.idea/python-wallix.iml" />
     </modules>
   </component>
 </project>

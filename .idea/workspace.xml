@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="902fb623-0cc6-41d3-8a93-ad853116ab21" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python-random.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python-random.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mapit.py" beforeDir="false" afterPath="$PROJECT_DIR$/mapit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/palindrome.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python-wallix/.idea/python-wallix.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../python-wallix/.idea/python-wallix.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miles.py" beforeDir="false" afterPath="$PROJECT_DIR$/miles.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,8 +49,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.web3">
-    <configuration name="mapit" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.miles">
+    <configuration name="miles" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-random" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -62,7 +62,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mapit.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/miles.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.miles" />
         <item itemvalue="Python.web3" />
         <item itemvalue="Python.run" />
         <item itemvalue="Python.recurser" />
         <item itemvalue="Python.perceptron" />
-        <item itemvalue="Python.mapit" />
       </list>
     </recent_temporary>
   </component>
