@@ -1,20 +1,26 @@
-import webbrowser
-import time
-from bs4 import BeautifulSoup
+from selenium import webdriver
 
-browser = webbrowser.get('"C:/Program Files (x86)/Google/Chrome/Application/chrome.exe" %s')
-# while True:
-#     webbrowser.get('"C:/Program Files (x86)/Google/Chrome/Application/chrome.exe" %s').open('google.com', new=0)
-#     time.sleep(5)
-#     webbrowser.open('bing.com', new=0)
+url = 'https://seriale.co/chirurdzy-serial-online/'
 
-# browser.open('google.com', new=0)
-#
-# browser.open('reddit.com', new=0)
+driver = webdriver.Chrome('C:/Users/kprokopiuk/Downloads/chromedriver.exe')
+driver.get(url)
 
-html_doc = 'kamiprok.github.io'
+odc2 = []
+odc = driver.find_elements_by_xpath('.//div[contains(@class, "seod")]')
+# print(odc)
 
-soup = BeautifulSoup(html_doc, 'lxml')
+for i in odc:
+    x = i.get_attribute('data')
+    odc2.append(x)
 
-print(soup.prettify())
-print(BeautifulSoup('kamiprok', features='lxml'))
+print(odc2)
+print('lista odcinkow')
+driver.find_element_by_xpath(f'.//div[@data="{odc2[0]}"]').click()
+print('kliknieto w pierwszy')
+# driver.find_element_by_xpath('//div[@class="verystream msg ikona"]').click()
+container = driver.find_element_by_xpath('.//div[contains(@class, "przerwa")]')
+
+players = driver.find_elements_by_xpath('.//div[contains(@class, " ikona")]')
+print(players)
+
+# nie chce znalesc playerow
