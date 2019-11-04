@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="902fb623-0cc6-41d3-8a93-ad853116ab21" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fizzbuzz2.py" beforeDir="false" afterPath="$PROJECT_DIR$/fizzbuzz2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +47,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.fizzbuzz2">
+  <component name="RunManager" selected="Python.wtbot">
     <configuration name="fizzbuzz2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-random" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -68,19 +69,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="miles" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python-random" />
+    <configuration name="lolchamps" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-redditbot" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../python-redditbot" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/miles.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../python-redditbot/lolchamps.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -122,7 +123,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\kprokopiuk\PycharmProjects\python-random\greys.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -131,19 +132,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="web3" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python-random" />
+    <configuration name="wtbot" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-redditbot" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../python-redditbot" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/web3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../python-redditbot/wtbot.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.wtbot" />
+        <item itemvalue="Python.lolchamps" />
         <item itemvalue="Python.fizzbuzz2" />
         <item itemvalue="Python.run (1)" />
         <item itemvalue="Python.mmorpg" />
-        <item itemvalue="Python.miles" />
-        <item itemvalue="Python.web3" />
       </list>
     </recent_temporary>
   </component>
