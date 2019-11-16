@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../jkmbot/.idea/jkmbot.iml" filepath="$PROJECT_DIR$/../jkmbot/.idea/jkmbot.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/python-random.iml" filepath="$PROJECT_DIR$/.idea/python-random.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../python-redditbot/.idea/python-redditbot.iml" filepath="$PROJECT_DIR$/../python-redditbot/.idea/python-redditbot.iml" />
     </modules>
   </component>
 </project>
