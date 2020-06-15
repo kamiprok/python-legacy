@@ -1,0 +1,4 @@
+<Rpc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" locale="pl" sessionID="1,Administrator,PLWAWLKPROKOPI,urn:uuid:8A90A2BDA5143A62931587132764196" xmlns="http://www.gtech.com/ui2s">
+<RpcRequest spName="dp_log_ivtcommupd"><parameters value="1" type="Integer" /><parameters value="-1" type="Integer" /><parameters value="1900-01-01-00.00.00.000" type="String" /><parameters value="1349" type="Integer"/><parameters value="N" type="String" /><parameters value="1" type="Integer" /><parameters value="PLWAWLKPROKOPI" type="String" /><parameters value="-1" type="Integer" />
+</RpcRequest>
+</Rpc>
